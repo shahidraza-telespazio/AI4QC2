@@ -1,0 +1,14 @@
+boto3 
+sentinelhub
+xarray 
+rioxarray 
+rasterio 
+tensorflow 
+tqdm 
+numpy 
+scikit-image 
+zarr 
+matplotlib
+rio-tiler
+dask[array]
+numcodecs
